@@ -9,7 +9,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-;
+
 
 public class Screen extends Application {
     @Override
